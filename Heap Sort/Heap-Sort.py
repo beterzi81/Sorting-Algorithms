@@ -67,6 +67,4 @@ def HeapSort(list):
 
 
 print(list)
-         
-
     
